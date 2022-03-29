@@ -6,3 +6,5 @@ draft: false
 
 
 ## The best mark down evaaah
+
+Here with the command and through github
